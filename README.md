@@ -35,7 +35,7 @@ I'm a full-stack engineer focused on creative and operational automation using L
 - Data: PostgreSQL (Supabase), local vector DBs, SQLite session cache
 - Ops: ETL pipelines, webhook services, Telegram interfaces, API sync
 
-- Check out my blog at [levibar.com](https://levibar.com)
+  Check out my blog at [levibar.com](https://levibar.com)
 
-- Check out my cool artsy site where I showcase my skills in making really weird and cool video art with code and old circuitbent video gear! [pvtv.shop](https://pvtv.shop/pages/about) 
+  Check out my cool artsy site where I showcase my skills in making really weird and cool video art with code and old circuitbent video gear! [pvtv.shop](https://pvtv.shop/pages/about) 
 
