@@ -1,6 +1,6 @@
 # B. Levi 
 
-Most of my active projects are self-hosted on a private Gitea instance for control, speed, and stealth. You can self-host too! it's easier than you think.
+Most of my active projects are self-hosted on a private Gitea instance. You can self-host too! it's easier than you think.
 
 ## About
 
