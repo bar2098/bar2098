@@ -1,4 +1,4 @@
-# B. Levi - Full-Stack Systems Engineer and Automation Architect
+# B. Levi 
 
 Most of my active projects are self-hosted on a private Gitea instance for control, speed, and stealth. You can self-host too! it's easier than you think.
 
