@@ -1,50 +1,40 @@
-This is my **public GitHub**. Most of my active projects are self-hosted on a private Gitea instance for operational security and control. *(And you can self-host too! — it's dead simple )*
+# B. Levi - Full-Stack Systems Engineer and Automation Architect
 
-## Who I Am
+Most of my active projects are self-hosted on a private Gitea instance for control, speed, and stealth. You can self-host too! it's easier than you think.
 
-I'm a systems engineer and automation architect building full-stack, AI-driven workflows designed for **scale**, **stealth**, and **persistence**.
+## About
 
-I specialize in end-to-end systems that:
+I build layered systems that think, click, scrape, respond, analyze, and perform tasks in the real world.
 
-- Automate human-like behavior on web and mobile (Tinder, YouTube, LinkedIn, Reddit)
-- Integrate with LLMs for autonomous task handling (commenting, scraping, classification)
-- Push and log structured data across Supabase, local vector stores, and REST APIs
-- Leverage self-hosted infrastructure for resilience and rapid iteration
+I'm a full-stack engineer focused on creative and operational automation using LLMs, browser control, and end-to-end data pipelines. My work blends technical depth with real-world execution, always aiming for one thing: the reduction of repetitive annoying tasks.
 
-All tools, scripts, and agents are built with **operational realism** in mind — I prioritize stealth, session integrity, and human behavior emulation.
+## Specialties
+
+- Human-like agents that can use data to perform real actions across infrastructure.
+- Autonomous LLM workflows that write reviews, generate emails, reply to threads, and summarize chaos
+- Structured data logging to Supabase, vector DBs, and APIs for insight, analytics and control.
+- Creative automation: Reddit-to-Shorts video pipelines, fake influencer networks, lead scraping.
+- Full ETL and ops systems for eCommerce, marketing, and internal tools
+- Self-hosted, modular infrastructure for maximum control (and zero rate limits!)
 
 ## Current Focus Areas
 
-- **LLM Agent Systems**  
-  Modular agents powered by Ollama (LLaMA 3), FastAPI backends, custom memory layers, and Telegram interfaces.  
-  Tasks include: comment generation, task queues, persona simulation, and remote command control.
+- LLM agent systems with FastAPI layers, Slack triggers, Ollama brains, and OpenWebUI Integration for a beautiful frontend solution.
+- Content intelligence for YouTube and Reddit: harvesting, summarizing, and remixing for trend maps 
+- Automated persona networks that simulate users across platforms for marketing or analysis
+- Ai Agent that run full workflows with one command — from data scraping to lead scoring to respond to angry customer emails.
+- eCommerce tools that generate batch product changes, clean catalogs, and plug into the most common CRMS such as, Klaviyo, and Shopify
+- Infra that just works: Postgres, Docker, Ollama, Gitea, WireGuard
 
-- **Guerrilla Marketing Pipelines**  
-  Full-stack campaigns using comment bots, persona-building crawlers, and video watchers that replicate organic engagement on platforms like YouTube and Reddit.  
-  Each account runs headless or inside a VM/VNC-controlled browser with strict proxy hygiene and behavior randomization.
+## Stack 
 
-- **YouTube & Content Intelligence Systems**  
-  - Harvests recommended videos and comment threads for trend mapping  
-  - Logs interactions, likes, and scraped metadata to Supabase  
-  - Embeds top comments for contextual LLM input
+- Languages: Python, Bash, JavaScript, SQL
+- Tools: FastAPI, Playwright, ffmpeg, Supabase, Ollama
+- Automation: Firefox + extensions, Incognition, ADB, cron, systemd
+- Infra: Docker Compose, Tailscale, Gitea, local Ollama
+- Data: PostgreSQL (Supabase), local vector DBs, SQLite session cache
+- Ops: ETL pipelines, webhook services, Telegram interfaces, API sync
 
-- **Server + Automation Infra**  
-  - Self-hosted Gitea (GitHub alt), Supabase, Ollama, and API services on local metal  
-  - VPN overlay networks via WireGuard and Tailscale  
-  - Containerized services using Docker Compose with exposed RPC endpoints
+Check out my blog at [levibar.com](https://levibar.com)
+Check out my cool artsy site where I showcase my skills in making really weird and cool video art with code and old circuitbent video gear! [pvtv.shop](https://pvtv.shop/pages/about) 
 
-- **Reddit Video Content System**  
-  Telegram-triggered automation that:
-    - Accepts Reddit links → pulls top videos/comments  
-    - Generates “Top 5” short-form video clips with ffmpeg + AI titles  
-    - Sends output back to Telegram
-
-## Stack Snapshot
-
-- **Languages**: Python, Bash, JavaScript, SQL  
-- **Core Tools**: FastAPI, Playwright, ffmpeg, Ollama, Supabase  
-- **Infra**: Docker, Gitea, WireGuard, Tailscale, systemd, cron  
-- **Browser Automation**: Firefox + extensions, Incognition, adb for Android  
-- **LLM Ops**: local LLaMA 3, embedding + CLIP, RAG pipelines, self-hosted models  
-- **Data Pipelines**: REST APIs, webhook ingestion, JSONL logs, auto DB insertions  
-- **Storage**: PostgreSQL (via Supabase), vector DB (custom or local), session cache (SQLite)
